@@ -1,6 +1,6 @@
 # Ezi-code 
 
-print("Hello world")
+#Print Hello world
 
 # Erhmprez
 print("Hello world")
